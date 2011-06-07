@@ -1,0 +1,3 @@
+Sniffer implementado como modulo del kernel de linux
+ModuloSniffer: Contiene el modulo y un cliente para consola
+Sniffer: Contiene el modulo y un cliente en java swing
